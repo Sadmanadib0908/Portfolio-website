@@ -76,13 +76,36 @@ nav li {
 }
 main {
     max-width: 1140px;
+    
+}
+.about{
     margin: 50px 230px;
     text-align: center;
     background: #FFF8F3;
     height: 550px;
+    padding: 131px 156px;
+    width: 550px;
 }
 .about-title {
     margin-bottom: 20px;
+    font-size: 700;
 }
 .about-description {
+
+}
+.container{
+display: flex;
+margin-top: 40px;
+justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.info-title{
+  font-weight: 500;
+  font-size: 20px;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;  
 }
