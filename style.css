@@ -2,6 +2,9 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+section{
+    margin-top: 130px;
+}
 .header {
     background-color: #FFF8F3;
     background-image: url('portfolio-resources-main/images/header_bg.png'),url('portfolio-resources-main/images/developer.png');
@@ -149,4 +152,51 @@ margin-top: 20px;
 margin-bottom: 100px;
 padding: 30px;
 /* width: 500px; */
+}
+.resume-container{
+    display: flex;
+    margin-left: 220px;
+    gap: 10px;
+}
+.resume-section-title{
+    margin-bottom: 150px;
+    margin-left: 600px;
+}
+.education{
+    margin-left: 50px;
+}
+
+.my-education{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.harvard{
+    margin-bottom: 20px;
+    font-weight: 300;
+    font-size: 20px;
+}
+.experience{
+    margin-left: 120px;
+}
+.education-container{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.Master{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.edu-des{
+    font-weight: 400;
+    font-size: 16px;
+}
+.experience-container{
+   
+        margin-bottom: 20px;
+        margin-top: 10px;
+    
+}
+hr{
+    /* width: 558px; */
 }
