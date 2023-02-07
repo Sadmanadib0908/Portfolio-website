@@ -200,3 +200,16 @@ padding: 30px;
 hr{
     /* width: 558px; */
 }
+.cv{
+    height: 64px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 18px 35px 19px 36px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-left: 600px;
+}
